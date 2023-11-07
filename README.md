@@ -2,6 +2,14 @@
 
 ## How to set up
 
+1. Clone repository
+
+```
+$ git clone https://github.com/Olszewski-Jakub/Scripts4Uni.git
+```
+
+2. Add Scripts4Uni path to environment variables
+
 ## How to use
 
 #### CT-103 Programming
